@@ -1,0 +1,84 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* body{
+    background-color: rgb(245, 231, 211);
+    margin: 0;
+    padding: 0;
+}
+.header{
+    margin: 15px;
+    padding: 5px;
+    border: 1px solid gray;
+    background-color: rgb(234, 172, 109);
+    border-radius: 18px;
+    display: flex;
+    justify-content: space-between;
+}
+.logo > img {
+    width: 7.5rem;
+    border-radius:8px ;
+}
+.list-items{
+    display: flex;
+    
+}
+.header-element{
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+    list-style-type: none;
+    font-size: 17px;
+    
+}
+.header-element:hover{
+    border-color: rgb(236, 123, 52);
+    border-radius: 15px;
+    cursor: pointer;
+    box-shadow:  5px 10px 8px rgb(236, 123, 52)
+}
+.restaurant-container{
+    padding: 15px;
+    margin: 8px;
+    display: flex;
+    flex-wrap: wrap;
+    border: 5px solid whitesmoke;
+    border-radius: 10px;
+    
+}
+.restaurant-card{
+    width: 200px;
+    border: 3px solid rgb(59, 58, 58);
+    background-color: rgb(234, 172, 109);
+    padding: 4px;
+    margin: 8px;
+    border-radius: 10px;
+}
+.restaurant-card > img{
+    width: 100%;
+    border-radius: 5px;
+    
+}
+.restaurant-card:hover{
+    border-color: rgb(236, 123, 52);
+    border-radius: 15px;
+    cursor: pointer;
+    box-shadow:  5px 10px 8px rgb(236, 123, 52);
+}
+h4 > span{
+    color: rgb(235, 21, 21);
+    text-decoration-line: underline;
+}
+.search > input{
+    width: 30rem;
+    height: 2.5rem;
+    margin: 12px;
+    border-radius: 10px;
+    padding: 5px;
+}
+.bold{
+    font-size: 15px;
+    font-style: italic;
+    border: 1px solid black;
+} */
